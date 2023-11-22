@@ -21,4 +21,5 @@ print (verifica_parenteses(expressao1))
 print (verifica_parenteses (expressao2))
 print (verifica_parenteses (expressao3))
 print (verifica_parenteses (expressao4))
+print (verifica_parenteses (expressao2))
 
