@@ -41,5 +41,3 @@ print("Tamanho da fila: ", tamanho)
 valor = fila.desenfilerar()
 print ("Item removido: ", valor)
 
-fila_vazia = fila.esta_vazia()
-print("\n\n\nA fila está vazia? ", fila_vazia)
