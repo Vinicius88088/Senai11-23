@@ -48,9 +48,17 @@ public class CalcConv extends JFrame{
 
         add(painel);
         setVisible(true);
+    }
 
+    private void converter (){
 
+        try{
+            double valor = Double.parseDouble(valorTextField.getText());
+
+        } catch
     }
 }
+
+
 
 
